@@ -1,6 +1,6 @@
 # J2019 Text Analysis
 
-Some interesting insights and visualizations from four months' of writing.
+Some interesting insights and visualizations from four months' of writing. Inspired by simple curiosity about my writing habits.
 
 Includes:
 * a month by month graph of how many words written per day 
