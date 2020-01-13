@@ -1,2 +1,8 @@
-# J2019_text_analysis
+# J2019 Text Analysis
+
 Some interesting insights and visualizations from four months' of writing.
+
+Includes:
+* a month by month graph of how many words written per day 
+* a weekly distribution of word counts
+* monthly heat maps of how frequently specific words occurred, in the four categories of "People," "Places," "Themes," and "Feelings"
