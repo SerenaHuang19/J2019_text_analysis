@@ -14,5 +14,5 @@ Note: For my own future reference, I kept most of my rough work, hence why large
 # Texts
 
 Currently: 
-* January - June 2018 (exchange in Edinburgh, Scotland)
-* September - December 2019 (first semester of my Master of Data Science - Computational Linguistics program at UBC)
+* [January - June 2018](https://github.com/SerenaHuang19/text_analyses/blob/master/five_months_in_edinburgh_raw.ipynb) (exchange in Edinburgh, Scotland)
+* [September - December 2019](https://github.com/SerenaHuang19/text_analyses/blob/master/J2019-2_text-analysis.ipynb) (first semester of my Master of Data Science - Computational Linguistics program at UBC)
