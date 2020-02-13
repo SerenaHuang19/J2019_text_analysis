@@ -1,10 +1,18 @@
-# J2019 Text Analysis
+# Introduction
 
-Some interesting insights and visualizations from four months' of writing. Inspired by simple curiosity about my writing habits.
+One of my rather odd hobbies is a habit of excessive writing. Although this results in a poor, battered keyboard, it also produces a rich depiction of my life in unnecessary detail, and is thus an excellent resource from which to derive some interesting insights and visualizations from my daily writing. This project is mostly inspired by simple curiosity about my writing habits, so I can better imagine the hours and hours of my life that I've devoted in front of a Microsoft Word document when I probably should have been doing normal human things such as sleeping, eating, and interacting with other humans. 
 
-Includes:
+# Features
+
+Currently: 
 * a month by month graph of how many words written per day 
 * a weekly distribution of word counts
-* monthly heat maps of how frequently specific words occurred, in the four categories of "People," "Places," "Themes," and "Feelings"
+* monthly heat maps of how frequently specific words occurred, in  categories such as "People," "Places," "Themes," "Feelings," and "Nationalities"
 
 Note: For my own future reference, I kept most of my rough work, hence why large chunks of code are commented out but not removed.
+
+# Texts
+
+Currently: 
+* January - June 2018 (exchange in Edinburgh, Scotland)
+* September - December 2019 (first semester of my Master of Data Science - Computational Linguistics program at UBC)
